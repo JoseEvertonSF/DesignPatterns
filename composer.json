@@ -1,10 +1,11 @@
 {
     "autoload": {
         "psr-4":{
-            "Strategy\\": "Criacionais/Strategy/",
-            "ChainOfResponsability\\": "Criacionais/ChainOfResponsability/",
-            "Observer\\": "Criacionais/Observer/",
-            "State\\": "Criacionais/State/"
+            "Strategy\\": "Comportamentais/Strategy/",
+            "ChainOfResponsability\\": "Comportamentais/ChainOfResponsability/",
+            "Observer\\": "Comportamentais/Observer/",
+            "State\\": "Comportamentais/State/",
+            "Command\\":"Comportamentais/Command/"
         }
     }
 }

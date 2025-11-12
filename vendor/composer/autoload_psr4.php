@@ -6,8 +6,9 @@ $vendorDir = dirname(__DIR__);
 $baseDir = dirname($vendorDir);
 
 return array(
-    'Strategy\\' => array($baseDir . '/Criacionais/Strategy'),
-    'State\\' => array($baseDir . '/Criacionais/State'),
-    'Observer\\' => array($baseDir . '/Criacionais/Observer'),
-    'ChainOfResponsability\\' => array($baseDir . '/Criacionais/ChainOfResponsability'),
+    'Strategy\\' => array($baseDir . '/Comportamentais/Strategy'),
+    'State\\' => array($baseDir . '/Comportamentais/State'),
+    'Observer\\' => array($baseDir . '/Comportamentais/Observer'),
+    'Command\\' => array($baseDir . '/Comportamentais/Command'),
+    'ChainOfResponsability\\' => array($baseDir . '/Comportamentais/ChainOfResponsability'),
 );

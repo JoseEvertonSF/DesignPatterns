@@ -18,6 +18,7 @@ class ComposerStaticInitc9bf382e5a1950b28fe0a3da7e375c72
         ),
         'C' => 
         array (
+            'Command\\' => 8,
             'ChainOfResponsability\\' => 22,
         ),
     );
@@ -25,19 +26,23 @@ class ComposerStaticInitc9bf382e5a1950b28fe0a3da7e375c72
     public static $prefixDirsPsr4 = array (
         'Strategy\\' => 
         array (
-            0 => __DIR__ . '/../..' . '/Criacionais/Strategy',
+            0 => __DIR__ . '/../..' . '/Comportamentais/Strategy',
         ),
         'State\\' => 
         array (
-            0 => __DIR__ . '/../..' . '/Criacionais/State',
+            0 => __DIR__ . '/../..' . '/Comportamentais/State',
         ),
         'Observer\\' => 
         array (
-            0 => __DIR__ . '/../..' . '/Criacionais/Observer',
+            0 => __DIR__ . '/../..' . '/Comportamentais/Observer',
+        ),
+        'Command\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/Comportamentais/Command',
         ),
         'ChainOfResponsability\\' => 
         array (
-            0 => __DIR__ . '/../..' . '/Criacionais/ChainOfResponsability',
+            0 => __DIR__ . '/../..' . '/Comportamentais/ChainOfResponsability',
         ),
     );
 

@@ -1,0 +1,10 @@
+{
+    "autoload": {
+        "psr-4":{
+            "Strategy\\": "Criacionais/Strategy/",
+            "ChainOfResponsability\\": "Criacionais/ChainOfResponsability/",
+            "Observer\\": "Criacionais/Observer/",
+            "State\\": "Criacionais/State/"
+        }
+    }
+}

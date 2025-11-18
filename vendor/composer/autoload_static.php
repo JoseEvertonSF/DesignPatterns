@@ -16,6 +16,10 @@ class ComposerStaticInitc9bf382e5a1950b28fe0a3da7e375c72
         array (
             'Observer\\' => 9,
         ),
+        'I' => 
+        array (
+            'Iterator\\' => 9,
+        ),
         'C' => 
         array (
             'Command\\' => 8,
@@ -35,6 +39,10 @@ class ComposerStaticInitc9bf382e5a1950b28fe0a3da7e375c72
         'Observer\\' => 
         array (
             0 => __DIR__ . '/../..' . '/Comportamentais/Observer',
+        ),
+        'Iterator\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/Comportamentais/Iterator',
         ),
         'Command\\' => 
         array (

@@ -6,7 +6,8 @@
             "Observer\\": "Comportamentais/Observer/",
             "State\\": "Comportamentais/State/",
             "Command\\":"Comportamentais/Command/",
-            "Iterator\\":"Comportamentais/Iterator/"
+            "Iterator\\":"Comportamentais/Iterator/",
+            "Mediator\\":"Comportamentais/Mediator/"
         }
     }
 }

@@ -18,6 +18,7 @@ class ComposerStaticInitc9bf382e5a1950b28fe0a3da7e375c72
         ),
         'M' => 
         array (
+            'Memento\\' => 8,
             'Mediator\\' => 9,
         ),
         'I' => 
@@ -43,6 +44,10 @@ class ComposerStaticInitc9bf382e5a1950b28fe0a3da7e375c72
         'Observer\\' => 
         array (
             0 => __DIR__ . '/../..' . '/Comportamentais/Observer',
+        ),
+        'Memento\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/Comportamentais/Memento',
         ),
         'Mediator\\' => 
         array (

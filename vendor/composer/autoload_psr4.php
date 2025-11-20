@@ -9,6 +9,7 @@ return array(
     'Strategy\\' => array($baseDir . '/Comportamentais/Strategy'),
     'State\\' => array($baseDir . '/Comportamentais/State'),
     'Observer\\' => array($baseDir . '/Comportamentais/Observer'),
+    'Memento\\' => array($baseDir . '/Comportamentais/Memento'),
     'Mediator\\' => array($baseDir . '/Comportamentais/Mediator'),
     'Iterator\\' => array($baseDir . '/Comportamentais/Iterator'),
     'Command\\' => array($baseDir . '/Comportamentais/Command'),

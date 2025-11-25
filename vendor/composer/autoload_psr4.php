@@ -6,6 +6,7 @@ $vendorDir = dirname(__DIR__);
 $baseDir = dirname($vendorDir);
 
 return array(
+    'Visitor\\' => array($baseDir . '/Comportamentais/Visitor'),
     'Strategy\\' => array($baseDir . '/Comportamentais/Strategy'),
     'State\\' => array($baseDir . '/Comportamentais/State'),
     'Observer\\' => array($baseDir . '/Comportamentais/Observer'),

@@ -8,7 +8,8 @@
             "Command\\":"Comportamentais/Command/",
             "Iterator\\":"Comportamentais/Iterator/",
             "Mediator\\":"Comportamentais/Mediator/",
-            "Memento\\":"Comportamentais/Memento/"
+            "Memento\\":"Comportamentais/Memento/",
+            "Visitor\\":"Comportamentais/Visitor/"
         }
     }
 }

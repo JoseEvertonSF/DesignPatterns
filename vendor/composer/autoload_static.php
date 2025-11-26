@@ -11,6 +11,10 @@ class ComposerStaticInitc9bf382e5a1950b28fe0a3da7e375c72
         array (
             'Visitor\\' => 8,
         ),
+        'T' => 
+        array (
+            'TemplateMethod\\' => 15,
+        ),
         'S' => 
         array (
             'Strategy\\' => 9,
@@ -40,6 +44,10 @@ class ComposerStaticInitc9bf382e5a1950b28fe0a3da7e375c72
         'Visitor\\' => 
         array (
             0 => __DIR__ . '/../..' . '/Comportamentais/Visitor',
+        ),
+        'TemplateMethod\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/Comportamentais/TemplateMethod',
         ),
         'Strategy\\' => 
         array (

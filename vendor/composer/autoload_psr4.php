@@ -7,6 +7,7 @@ $baseDir = dirname($vendorDir);
 
 return array(
     'Visitor\\' => array($baseDir . '/Comportamentais/Visitor'),
+    'TemplateMethod\\' => array($baseDir . '/Comportamentais/TemplateMethod'),
     'Strategy\\' => array($baseDir . '/Comportamentais/Strategy'),
     'State\\' => array($baseDir . '/Comportamentais/State'),
     'Observer\\' => array($baseDir . '/Comportamentais/Observer'),

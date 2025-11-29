@@ -10,7 +10,8 @@
             "Mediator\\":"Comportamentais/Mediator/",
             "Memento\\":"Comportamentais/Memento/",
             "Visitor\\":"Comportamentais/Visitor/",
-            "TemplateMethod\\":"Comportamentais/TemplateMethod/"
+            "TemplateMethod\\":"Comportamentais/TemplateMethod/",
+            "Decorator\\":"Estruturais/Decorator/"
         }
     }
 }

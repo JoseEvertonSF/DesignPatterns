@@ -33,6 +33,10 @@ class ComposerStaticInitc9bf382e5a1950b28fe0a3da7e375c72
         array (
             'Iterator\\' => 9,
         ),
+        'D' => 
+        array (
+            'Decorator\\' => 10,
+        ),
         'C' => 
         array (
             'Command\\' => 8,
@@ -72,6 +76,10 @@ class ComposerStaticInitc9bf382e5a1950b28fe0a3da7e375c72
         'Iterator\\' => 
         array (
             0 => __DIR__ . '/../..' . '/Comportamentais/Iterator',
+        ),
+        'Decorator\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/Estruturais/Decorator',
         ),
         'Command\\' => 
         array (

@@ -14,6 +14,7 @@ return array(
     'Memento\\' => array($baseDir . '/Comportamentais/Memento'),
     'Mediator\\' => array($baseDir . '/Comportamentais/Mediator'),
     'Iterator\\' => array($baseDir . '/Comportamentais/Iterator'),
+    'Facade\\' => array($baseDir . '/Estruturais/Facade'),
     'Decorator\\' => array($baseDir . '/Estruturais/Decorator'),
     'Command\\' => array($baseDir . '/Comportamentais/Command'),
     'ChainOfResponsability\\' => array($baseDir . '/Comportamentais/ChainOfResponsability'),

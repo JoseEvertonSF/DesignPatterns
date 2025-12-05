@@ -11,7 +11,8 @@
             "Memento\\":"Comportamentais/Memento/",
             "Visitor\\":"Comportamentais/Visitor/",
             "TemplateMethod\\":"Comportamentais/TemplateMethod/",
-            "Decorator\\":"Estruturais/Decorator/"
+            "Decorator\\":"Estruturais/Decorator/",
+            "Facade\\":"Estruturais/Facade/"
         }
     }
 }

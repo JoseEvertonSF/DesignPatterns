@@ -12,7 +12,8 @@
             "Visitor\\":"Comportamentais/Visitor/",
             "TemplateMethod\\":"Comportamentais/TemplateMethod/",
             "Decorator\\":"Estruturais/Decorator/",
-            "Facade\\":"Estruturais/Facade/"
+            "Facade\\":"Estruturais/Facade/",
+            "Proxy\\":"Estruturais/Proxy/"
         }
     }
 }

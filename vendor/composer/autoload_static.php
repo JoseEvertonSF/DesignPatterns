@@ -20,6 +20,10 @@ class ComposerStaticInitc9bf382e5a1950b28fe0a3da7e375c72
             'Strategy\\' => 9,
             'State\\' => 6,
         ),
+        'P' => 
+        array (
+            'Proxy\\' => 6,
+        ),
         'O' => 
         array (
             'Observer\\' => 9,
@@ -64,6 +68,10 @@ class ComposerStaticInitc9bf382e5a1950b28fe0a3da7e375c72
         'State\\' => 
         array (
             0 => __DIR__ . '/../..' . '/Comportamentais/State',
+        ),
+        'Proxy\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/Estruturais/Proxy',
         ),
         'Observer\\' => 
         array (

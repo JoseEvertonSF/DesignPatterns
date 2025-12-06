@@ -10,6 +10,7 @@ return array(
     'TemplateMethod\\' => array($baseDir . '/Comportamentais/TemplateMethod'),
     'Strategy\\' => array($baseDir . '/Comportamentais/Strategy'),
     'State\\' => array($baseDir . '/Comportamentais/State'),
+    'Proxy\\' => array($baseDir . '/Estruturais/Proxy'),
     'Observer\\' => array($baseDir . '/Comportamentais/Observer'),
     'Memento\\' => array($baseDir . '/Comportamentais/Memento'),
     'Mediator\\' => array($baseDir . '/Comportamentais/Mediator'),

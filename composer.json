@@ -13,7 +13,8 @@
             "TemplateMethod\\":"Comportamentais/TemplateMethod/",
             "Decorator\\":"Estruturais/Decorator/",
             "Facade\\":"Estruturais/Facade/",
-            "Proxy\\":"Estruturais/Proxy/"
+            "Proxy\\":"Estruturais/Proxy/",
+            "Adapter\\":"Estruturais/Adapter/"
         }
     }
 }

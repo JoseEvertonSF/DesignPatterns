@@ -15,6 +15,7 @@ return array(
     'Memento\\' => array($baseDir . '/Comportamentais/Memento'),
     'Mediator\\' => array($baseDir . '/Comportamentais/Mediator'),
     'Iterator\\' => array($baseDir . '/Comportamentais/Iterator'),
+    'Flyweight\\' => array($baseDir . '/Estruturais/Flyweight'),
     'Facade\\' => array($baseDir . '/Estruturais/Facade'),
     'Decorator\\' => array($baseDir . '/Estruturais/Decorator'),
     'Command\\' => array($baseDir . '/Comportamentais/Command'),

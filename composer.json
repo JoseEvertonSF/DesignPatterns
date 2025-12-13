@@ -14,7 +14,8 @@
             "Decorator\\":"Estruturais/Decorator/",
             "Facade\\":"Estruturais/Facade/",
             "Proxy\\":"Estruturais/Proxy/",
-            "Adapter\\":"Estruturais/Adapter/"
+            "Adapter\\":"Estruturais/Adapter/",
+            "Flyweight\\":"Estruturais/Flyweight/"
         }
     }
 }

@@ -20,5 +20,6 @@ return array(
     'Decorator\\' => array($baseDir . '/Estruturais/Decorator'),
     'Command\\' => array($baseDir . '/Comportamentais/Command'),
     'ChainOfResponsability\\' => array($baseDir . '/Comportamentais/ChainOfResponsability'),
+    'Bridge\\' => array($baseDir . '/Estruturais/Bridge'),
     'Adapter\\' => array($baseDir . '/Estruturais/Adapter'),
 );

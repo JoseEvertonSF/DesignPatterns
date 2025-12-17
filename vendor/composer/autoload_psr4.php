@@ -18,6 +18,7 @@ return array(
     'Flyweight\\' => array($baseDir . '/Estruturais/Flyweight'),
     'Facade\\' => array($baseDir . '/Estruturais/Facade'),
     'Decorator\\' => array($baseDir . '/Estruturais/Decorator'),
+    'Composite\\' => array($baseDir . '/Estruturais/Composite'),
     'Command\\' => array($baseDir . '/Comportamentais/Command'),
     'ChainOfResponsability\\' => array($baseDir . '/Comportamentais/ChainOfResponsability'),
     'Bridge\\' => array($baseDir . '/Estruturais/Bridge'),

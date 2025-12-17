@@ -16,7 +16,8 @@
             "Proxy\\":"Estruturais/Proxy/",
             "Adapter\\":"Estruturais/Adapter/",
             "Flyweight\\":"Estruturais/Flyweight/",
-            "Bridge\\":"Estruturais/Bridge/"
+            "Bridge\\":"Estruturais/Bridge/",
+            "Composite\\":"Estruturais/Composite/"
         }
     }
 }

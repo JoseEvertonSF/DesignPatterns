@@ -16,6 +16,7 @@ return array(
     'Mediator\\' => array($baseDir . '/Comportamentais/Mediator'),
     'Iterator\\' => array($baseDir . '/Comportamentais/Iterator'),
     'Flyweight\\' => array($baseDir . '/Estruturais/Flyweight'),
+    'FactoryMethod\\' => array($baseDir . '/Criacionais/FactoryMethod'),
     'Facade\\' => array($baseDir . '/Estruturais/Facade'),
     'Decorator\\' => array($baseDir . '/Estruturais/Decorator'),
     'Composite\\' => array($baseDir . '/Estruturais/Composite'),

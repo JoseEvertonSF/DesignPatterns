@@ -17,7 +17,8 @@
             "Adapter\\":"Estruturais/Adapter/",
             "Flyweight\\":"Estruturais/Flyweight/",
             "Bridge\\":"Estruturais/Bridge/",
-            "Composite\\":"Estruturais/Composite/"
+            "Composite\\":"Estruturais/Composite/",
+            "FactoryMethod\\":"Criacionais/FactoryMethod/"
         }
     }
 }

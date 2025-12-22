@@ -40,6 +40,7 @@ class ComposerStaticInitc9bf382e5a1950b28fe0a3da7e375c72
         'F' => 
         array (
             'Flyweight\\' => 10,
+            'FactoryMethod\\' => 14,
             'Facade\\' => 7,
         ),
         'D' => 
@@ -102,6 +103,10 @@ class ComposerStaticInitc9bf382e5a1950b28fe0a3da7e375c72
         'Flyweight\\' => 
         array (
             0 => __DIR__ . '/../..' . '/Estruturais/Flyweight',
+        ),
+        'FactoryMethod\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/Criacionais/FactoryMethod',
         ),
         'Facade\\' => 
         array (

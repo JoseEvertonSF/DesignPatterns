@@ -24,4 +24,5 @@ return array(
     'ChainOfResponsability\\' => array($baseDir . '/Comportamentais/ChainOfResponsability'),
     'Bridge\\' => array($baseDir . '/Estruturais/Bridge'),
     'Adapter\\' => array($baseDir . '/Estruturais/Adapter'),
+    'AbstractFactory\\' => array($baseDir . '/Criacionais/AbstractFactory'),
 );

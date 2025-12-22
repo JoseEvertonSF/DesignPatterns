@@ -60,6 +60,7 @@ class ComposerStaticInitc9bf382e5a1950b28fe0a3da7e375c72
         'A' => 
         array (
             'Adapter\\' => 8,
+            'AbstractFactory\\' => 16,
         ),
     );
 
@@ -135,6 +136,10 @@ class ComposerStaticInitc9bf382e5a1950b28fe0a3da7e375c72
         'Adapter\\' => 
         array (
             0 => __DIR__ . '/../..' . '/Estruturais/Adapter',
+        ),
+        'AbstractFactory\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/Criacionais/AbstractFactory',
         ),
     );
 

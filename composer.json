@@ -18,7 +18,8 @@
             "Flyweight\\":"Estruturais/Flyweight/",
             "Bridge\\":"Estruturais/Bridge/",
             "Composite\\":"Estruturais/Composite/",
-            "FactoryMethod\\":"Criacionais/FactoryMethod/"
+            "FactoryMethod\\":"Criacionais/FactoryMethod/",
+            "AbstractFactory\\":"Criacionais/AbstractFactory/"
         }
     }
 }

@@ -19,6 +19,7 @@ class ComposerStaticInitc9bf382e5a1950b28fe0a3da7e375c72
         array (
             'Strategy\\' => 9,
             'State\\' => 6,
+            'Singleton\\' => 10,
         ),
         'P' => 
         array (
@@ -80,6 +81,10 @@ class ComposerStaticInitc9bf382e5a1950b28fe0a3da7e375c72
         'State\\' => 
         array (
             0 => __DIR__ . '/../..' . '/Comportamentais/State',
+        ),
+        'Singleton\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/Criacionais/Singleton',
         ),
         'Proxy\\' => 
         array (

@@ -19,7 +19,8 @@
             "Bridge\\":"Estruturais/Bridge/",
             "Composite\\":"Estruturais/Composite/",
             "FactoryMethod\\":"Criacionais/FactoryMethod/",
-            "AbstractFactory\\":"Criacionais/AbstractFactory/"
+            "AbstractFactory\\":"Criacionais/AbstractFactory/",
+            "Singleton\\":"Criacionais/Singleton/"
         }
     }
 }

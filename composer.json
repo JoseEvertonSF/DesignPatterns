@@ -21,7 +21,8 @@
             "FactoryMethod\\":"Criacionais/FactoryMethod/",
             "AbstractFactory\\":"Criacionais/AbstractFactory/",
             "Singleton\\":"Criacionais/Singleton/",
-            "Builder\\":"Criacionais/Builder/"
+            "Builder\\":"Criacionais/Builder/",
+            "Prototype\\":"Criacionais/Prototype/"
         }
     }
 }

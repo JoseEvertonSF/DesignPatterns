@@ -24,6 +24,7 @@ class ComposerStaticInitc9bf382e5a1950b28fe0a3da7e375c72
         'P' => 
         array (
             'Proxy\\' => 6,
+            'Prototype\\' => 10,
         ),
         'O' => 
         array (
@@ -90,6 +91,10 @@ class ComposerStaticInitc9bf382e5a1950b28fe0a3da7e375c72
         'Proxy\\' => 
         array (
             0 => __DIR__ . '/../..' . '/Estruturais/Proxy',
+        ),
+        'Prototype\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/Criacionais/Prototype',
         ),
         'Observer\\' => 
         array (

@@ -12,6 +12,7 @@ return array(
     'State\\' => array($baseDir . '/Comportamentais/State'),
     'Singleton\\' => array($baseDir . '/Criacionais/Singleton'),
     'Proxy\\' => array($baseDir . '/Estruturais/Proxy'),
+    'Prototype\\' => array($baseDir . '/Criacionais/Prototype'),
     'Observer\\' => array($baseDir . '/Comportamentais/Observer'),
     'Memento\\' => array($baseDir . '/Comportamentais/Memento'),
     'Mediator\\' => array($baseDir . '/Comportamentais/Mediator'),

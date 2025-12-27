@@ -20,7 +20,8 @@
             "Composite\\":"Estruturais/Composite/",
             "FactoryMethod\\":"Criacionais/FactoryMethod/",
             "AbstractFactory\\":"Criacionais/AbstractFactory/",
-            "Singleton\\":"Criacionais/Singleton/"
+            "Singleton\\":"Criacionais/Singleton/",
+            "Builder\\":"Criacionais/Builder/"
         }
     }
 }

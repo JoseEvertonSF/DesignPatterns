@@ -56,6 +56,7 @@ class ComposerStaticInitc9bf382e5a1950b28fe0a3da7e375c72
         ),
         'B' => 
         array (
+            'Builder\\' => 8,
             'Bridge\\' => 7,
         ),
         'A' => 
@@ -133,6 +134,10 @@ class ComposerStaticInitc9bf382e5a1950b28fe0a3da7e375c72
         'ChainOfResponsability\\' => 
         array (
             0 => __DIR__ . '/../..' . '/Comportamentais/ChainOfResponsability',
+        ),
+        'Builder\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/Criacionais/Builder',
         ),
         'Bridge\\' => 
         array (

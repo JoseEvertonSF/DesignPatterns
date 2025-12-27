@@ -23,6 +23,7 @@ return array(
     'Composite\\' => array($baseDir . '/Estruturais/Composite'),
     'Command\\' => array($baseDir . '/Comportamentais/Command'),
     'ChainOfResponsability\\' => array($baseDir . '/Comportamentais/ChainOfResponsability'),
+    'Builder\\' => array($baseDir . '/Criacionais/Builder'),
     'Bridge\\' => array($baseDir . '/Estruturais/Bridge'),
     'Adapter\\' => array($baseDir . '/Estruturais/Adapter'),
     'AbstractFactory\\' => array($baseDir . '/Criacionais/AbstractFactory'),

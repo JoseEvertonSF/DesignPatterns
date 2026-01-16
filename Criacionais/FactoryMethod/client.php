@@ -9,4 +9,4 @@ $pagamentoPix = new PagamentoPixFactory();
 echo $pagamentoPix->realizarPagamento(100.50) . PHP_EOL;
 
 $pagamentoCartao = new PagamentoCartaoFactory();
-echo $pagamentoCartao->realizarPagamento(1000.50) . PHP_EOL;;
+echo $pagamentoCartao->realizarPagamento(1000.50) . PHP_EOL;

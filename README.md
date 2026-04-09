@@ -1,7 +1,7 @@
 
 # Design Patterns
 
-Implementação dos Design Patterns na prática com base no refactoring guru. A ideia é utilizar os padrões em situações encontradas no dia a dia para fixar o aprendizado.
+Implementação dos Design Patterns na prática com base no Refactoring Guru. A ideia é utilizar os padrões em situações encontradas no dia a dia para fixar o aprendizado.
 
 
 ## Padrões Criacionais
